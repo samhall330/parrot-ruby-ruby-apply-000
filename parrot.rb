@@ -5,4 +5,4 @@ return phrase
 
 end
 
-parrot
+parrot("Im a bird")
