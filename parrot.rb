@@ -4,4 +4,4 @@ puts phrase
 
 end
 
-parrot
+parrot ("Pretty bird!")
