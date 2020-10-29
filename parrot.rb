@@ -4,4 +4,4 @@ puts phrase
 "Squawk!"
 end
 
-parrot
+parrot("Pretty bird!")
