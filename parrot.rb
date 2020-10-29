@@ -4,5 +4,3 @@ puts phrase
 phrase
 
 end
-
-
